@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d 秒內再試一次。</item>
+        <item quantity="one">%d 秒內再試一次。</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">您還有 %d 次輸入機會</item>
+        <item quantity="one">您還有 %d 次輸入機會</item>
+    </plurals>
+</resources>

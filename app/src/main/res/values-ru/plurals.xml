@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Повторите попытку через %d секунд.</item>
+        <item quantity="one">Повторите попытку через %d секунду.</item>
+        <item quantity="few">Повторите попытку через %d секунды.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">У вас еще осталось %1$d попыток</item>
+        <item quantity="one">У вас еще осталась %1$d попытка</item>
+        <item quantity="few">У вас еще осталось %1$d попытки</item>
+    </plurals>
+</resources>

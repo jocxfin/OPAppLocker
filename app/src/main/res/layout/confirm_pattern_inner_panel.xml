@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/fingerprintIcon" android:visibility="invisible" android:layout_width="@dimen/oneplus_applock_fp_icon_width" android:layout_height="@dimen/oneplus_applock_fp_icon_height" />
+    <FrameLayout android:gravity="center_horizontal" android:id="@id/textGroup" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/oneplus_applock_header_marginTop" android:layout_marginStart="@dimen/oneplus_applock_header_marginLeft" android:layout_marginEnd="@dimen/oneplus_applock_header_marginRight">
+        <TextView android:gravity="center" android:id="@id/headerText" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minLines="2" style="@style/applock_header_style" />
+        <TextView android:gravity="center" android:id="@id/errorText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minLines="2" android:accessibilityLiveRegion="polite" style="@style/TextAppearance.ConfirmDeviceCredentialsErrorText" />
+    </FrameLayout>
+    <com.android.internal.widget.LockPatternView android:layout_gravity="center" android:id="@id/lockPattern" android:layout_width="@dimen/oneplus_applock_pattern_width" android:layout_height="@dimen/oneplus_applock_pattern_height" android:layout_marginTop="@dimen/oneplus_applock_pattern_marginTop" android:layout_marginStart="@dimen/oneplus_applock_pattern_marginLeft" android:layout_marginEnd="@dimen/oneplus_applock_pattern_marginRight" />
+</LinearLayout>

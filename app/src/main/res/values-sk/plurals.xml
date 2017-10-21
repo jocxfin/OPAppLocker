@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Skúste znova o %d sekúnd.</item>
+        <item quantity="one">Skúste znova o %d sekundu.</item>
+        <item quantity="few">Skúste znova o %d sekundy.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">Máte ešte %1$d pokusov</item>
+        <item quantity="one">Máte ešte %1$d pokus</item>
+        <item quantity="few">Máte ešte %1$d pokusy</item>
+    </plurals>
+</resources>

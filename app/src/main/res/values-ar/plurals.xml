@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">حاول مرة أخرى في غضون %d ثواني.</item>
+        <item quantity="zero">حاول مرة أخرى في غضون %d ثانية.</item>
+        <item quantity="one">حاول مرة أخرى في غضون %d ثانية.</item>
+        <item quantity="two">حاول مرة أخرى في غضون %d ثانية.</item>
+        <item quantity="few">حاول مرة أخرى في غضون %d ثواني.</item>
+        <item quantity="many">حاول مرة أخرى في غضون %d ثواني.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">لا يزال لديك %1$d من الفرص</item>
+        <item quantity="zero">لا يزال لديك %1$d من الفرص</item>
+        <item quantity="one">لا يزال لديك %1$d من الفرص</item>
+        <item quantity="two">لا يزال لديك %1$d من الفرص</item>
+        <item quantity="few">لا يزال لديك %1$d من الفرص</item>
+        <item quantity="many">لا يزال لديك %1$d من الفرص</item>
+    </plurals>
+</resources>

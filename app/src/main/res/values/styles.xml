@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="settings_contorl_text_style_subheading">
+        <item name="android:textSize">@dimen/settings_contorl_text_size_subheading</item>
+        <item name="android:fontFamily">@string/settings_contorl_font_family_subheading</item>
+    </style>
+    <style name="settings_contorl_text_style_subtitle">
+        <item name="android:textSize">@dimen/settings_contorl_text_size_subtitle</item>
+        <item name="android:fontFamily">@string/settings_contorl_font_family_subtitle</item>
+    </style>
+    <style name="settings_contorl_text_style_body2">
+        <item name="android:textSize">@dimen/settings_contorl_text_size_body2</item>
+        <item name="android:fontFamily">@string/settings_contorl_font_family_body2</item>
+    </style>
+    <style name="settings_contorl_text_style_menu" parent="@style/settings_contorl_text_style_body2" />
+    <style name="settings_contorl_text_style_body1">
+        <item name="android:textSize">@dimen/settings_contorl_text_size_body1</item>
+        <item name="android:fontFamily">@string/settings_contorl_font_family_body1</item>
+    </style>
+    <style name="SettingsLib.Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/Settings.TextAppearance.Material.Widget.ActionBar.Title</item>
+        <item name="android:subtitleTextStyle">@style/Settings.TextAppearance.Material.Widget.ActionBar.Subtitle</item>
+        <item name="android:contentInsetStart">16.0dip</item>
+    </style>
+    <style name="Settings.TextAppearance.Material.Widget.ActionBar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/settings_contorl_text_size_title</item>
+        <item name="android:textColor">?android:colorControlNormal</item>
+        <item name="android:fontFamily">@string/settings_contorl_font_family_title</item>
+    </style>
+    <style name="Settings.TextAppearance.Material.Widget.ActionBar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+        <item name="android:textSize">@dimen/settings_contorl_text_size_body1</item>
+        <item name="android:textColor">?android:colorControlNormal</item>
+        <item name="android:fontFamily">@string/settings_contorl_font_family_body1</item>
+    </style>
+    <style name="PasswordPreferenceButton" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_width">164.0dip</item>
+        <item name="android:layout_height">50.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Widget.TextView.NumPadKey" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">36.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingBottom">-16.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TextAppearance.PasswordEntry" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="TextAppearance.ConfirmDeviceCredentialsErrorText" parent="@android:style/TextAppearance.Material.Body1">
+        <item name="android:textColor">@color/warning</item>
+    </style>
+    <style name="applock_header_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="ComfirmLockButton" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">56.159973dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="Theme.ConfirmDeviceCredentialsApplock.FullScreen" parent="@android:style/Theme.Material">
+        <item name="android:excludeFromRecents">true</item>
+        <item name="android:windowBackground">@color/confirm_device_credential_dark_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.ConfirmDeviceCredentialsApplock" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:excludeFromRecents">true</item>
+        <item name="android:windowBackground">@color/confirm_device_credential_dark_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

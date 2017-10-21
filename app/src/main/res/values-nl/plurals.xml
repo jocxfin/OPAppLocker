@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Probeer het opnieuw in %d seconden.</item>
+        <item quantity="one">Probeer het opnieuw in %d seconde.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">U hebt nog %1$d kansen</item>
+        <item quantity="one">U hebt nog %1$d kans</item>
+    </plurals>
+</resources>

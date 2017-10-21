@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oneplus_screen_zoom_summary_minimum">ಕನಿಷ್ಠ</string>
+    <string name="oneplus_screen_zoom_summary_small">ಚಿಕ್ಕದು</string>
+    <string name="oneplus_screen_zoom_summary_default">ಡೀಫಾಲ್ಟ್</string>
+    <string name="oneplus_screen_zoom_summary_large">ದೊಡ್ಡದು</string>
+    <string name="oneplus_screen_zoom_summary_very_large">ಅತಿ ದೊಡ್ಡದು</string>
+    <string name="wifi_auth_password_wrong">ಪಾಸ್‌ವರ್ಡ್ ಸರಿಯಿಲ್ಲದಿರಬಹುದು</string>
+    <string name="oneplus_applock_lockpassword_confirm_your_pin_header">PIN ನಮೂದಿಸಿ</string>
+    <string name="oneplus_applock_need_to_unlock_wrong">ತಪ್ಪಾದ PIN</string>
+    <string name="oneplus_applock_pattern_header">ನಿಮ್ಮ ಪ್ಯಾಟರ್ನ್ ರಚಿಸಿ</string>
+    <string name="oneplus_applock_wrong_pattern_header">ತಪ್ಪಾದ ಪ್ಯಾಟರ್ನ್</string>
+    <string name="oneplus_applock_at_least_four_points">ಕನಿಷ್ಠ 4 ಪಾಯಿಂಟ್‌ಗಳಲ್ಲಿ ಸೇರಿಸಲು ರಚಿಸಿ</string>
+    <string name="lockpassword_confirm_your_password_header">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="lockpassword_invalid_password">ತಪ್ಪಾದ ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="fingerprint_not_recognized">ಗುರುತಿಸಲ್ಪಟ್ಟಿಲ್ಲ</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">ಹಲವಾರು ಸರಿಯಲ್ಲದ ಪ್ರಯತ್ನಗಳು. %d ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+</resources>

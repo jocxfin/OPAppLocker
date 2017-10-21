@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d సెకండ్లలో మళ్లీ ప్రయత్నించు.</item>
+        <item quantity="one">%d సెకండ్‌లో మళ్లీ ప్రయత్నించు.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">మీకు ఇంకా %1$d అవకాశాలు ఉన్నాయి</item>
+        <item quantity="one">మీకు ఇంకా %1$d అవకాశం ఉంది</item>
+    </plurals>
+</resources>

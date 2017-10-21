@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Încercați din nou în %d secunde.</item>
+        <item quantity="one">Încercați din nou în %d secundă.</item>
+        <item quantity="few">Încercați din nou în %d secundă.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">Mai aveți încă %1$d șanse</item>
+        <item quantity="one">Mai aveți încă %1$d șansă</item>
+        <item quantity="few">Mai aveți încă %1$d șansă</item>
+    </plurals>
+</resources>

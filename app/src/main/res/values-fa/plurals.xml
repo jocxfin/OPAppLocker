@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">در %d ثانیه دوباره تلاش کنید.</item>
+        <item quantity="one">در %1$d ثانیه دوباره تلاش کنید. در %2$d ثانیه دوباره تلاش کنید.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">همچنان %1$d شانس دارید</item>
+        <item quantity="one">همچنان %1$d شانس دارید</item>
+    </plurals>
+</resources>

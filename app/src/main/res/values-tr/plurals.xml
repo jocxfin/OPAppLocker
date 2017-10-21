@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d saniye içinde tekrar deneyin.</item>
+        <item quantity="one">%d saniye içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item quantity="other">Hâlâ %1$d deneme hakkınız var</item>
+        <item quantity="one">Hâlâ %1$d deneme hakkınız var</item>
+    </plurals>
+</resources>
